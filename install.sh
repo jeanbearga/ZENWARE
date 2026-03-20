@@ -2,7 +2,7 @@
 set -euo pipefail
 clear
 
-REPO="jeanbaerga/ZenWare"
+REPO="jeanbearga/ZENWARE"
 TAG="Releases"
 
 # The new name for the application
