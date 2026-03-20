@@ -2,7 +2,7 @@
 set -euo pipefail
 clear
 
-REPO="thelastligma/SolaraM"
+REPO="jeanbaerga/ZenWare"
 TAG="Releases"
 
 # The new name for the application
